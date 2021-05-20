@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  background-color: #121212;
+  height:100vh;
+}
+
+h1 {
+  color: #26A69A;
+  margin-top:0px;
+  padding-top:calc(10px + 2vmin);
+}
+
+#edit {
+  color:white !important
+}
+
+footer {
+  padding-top: 10px !important;
+  color:white
+}
+
+footer a {
+  color: #26A69A;
+  font-weight: bold;
+  text-decoration: none;
+}
